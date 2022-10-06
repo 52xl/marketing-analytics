@@ -45,10 +45,7 @@ code identifying the items
 where the prod_id are described. Each product is identified by a 6-digit code
 (if 5 digits are present, it meansthat the first one is 0). The first two digits represent 
 families of categories, the second two digits represent product categories
-and the last two represent subcategories. Data have been pre-processed by the category managers 
-to simplify the
-interpretation; that’s why different codes may have the same description: the differences are relevant for some decisions, but
-not marketing related ones.
+and the last two represent subcategories.
 
 ## Output
 
